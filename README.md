@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lumamaiara
+- 👀 I’m interested in **web development and data analysis**
+- 🌱 I’m currently learning **data science** and **exploring web development**. I'm still a beginner in these areas but eager to learn and grow.
+- 💞️ I’m looking to collaborate on **beginner-friendly projects related to data science, web development, or anything combining both fields. Open-source projects in Python or JavaScript frameworks could be a great way for me to develop my skills.**
+- 📫 How to reach me **[araujoblumamaiara@gmail.com](mailto:araujoblumamaiara@gmail.com)**
+- 😄 Pronouns: **ela/dela**
+- ⚡ Fun fact: **I'm known as 'Barbie' for having had a variety of professions throughout my life!**
